@@ -1,12 +1,12 @@
-# Adrian Zapłata
+# Adrian Zapłata - AI Engineer
 
-**AI Engineer — Poland** · Building production AI systems: RAG pipelines, LLM agents, structured extraction, and AI-native tooling.
+Building production AI systems: RAG pipelines, LLM agents, structured extraction, and AI-native tooling.
 
 [![Website](https://img.shields.io/badge/Website-azaplata.dev-06070a)](https://azaplata.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adrianzaplata-0a66c2)](https://www.linkedin.com/in/adrianzaplata/)
 [![Email](https://img.shields.io/badge/Email-adrianzaplata@gmail.com-555)](mailto:adrianzaplata@gmail.com)
 
-Senior engineer with 7+ years in production environments — automotive HMI, embedded systems, real-time graphics — now focused on shipping LLM-powered products. I build the unglamorous parts that make AI systems work in production: retrieval that returns the right context, agents with real tools, evals that catch regressions, and observability that tells you what actually happened.
+Senior engineer with 7+ years in production environments — automotive HMI/ADAS, real-time graphics — now focused on shipping LLM-powered products. I build the parts that make AI systems work in production: retrieval that returns the right context, agents with real tools, evals that catch regressions, and observability that tells you what actually happened.
 
 Trilingual (English · German · Polish) · EU citizen, based in Poland.
 
@@ -51,6 +51,7 @@ AI-driven web production system delivering personalized websites to SMBs at scal
 
 ## What I'm looking for
 
-A full-time **AI engineering role** in Germany (remote / hybrid), or a B2B contract with a global team. What matters: real AI engineering — shipping systems with retrieval, evals, observability, and deployment — and room to grow.
+A full-time **AI engineering role** in Poland (remote / hybrid), or a B2B contract worldwide (remote). 
+What matters: real AI engineering — shipping systems with retrieval, evals, observability, and deployment — and room to grow.
 
 📬 **Get in touch:** [azaplata.dev](https://azaplata.dev/) · [LinkedIn](https://www.linkedin.com/in/adrianzaplata/) · [Book an intro call](https://calendly.com/adrianzaplata/intro-call)
